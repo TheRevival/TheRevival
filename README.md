@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Me looking for new opportunities:</h1>
-   <img src="https://i.gifer.com/8UJH.gif" />
+   <img src="https://i.pinimg.com/originals/12/90/2a/12902a631d6c4afd9f75b0b432158954.gif" />
 </div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheRevival&count_private=true&show_icons=true&hide_title=true&hide=stars" />
